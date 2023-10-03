@@ -23,7 +23,8 @@ git clone https://github.com/ChienNguyenIT/bot_telegram
  ![384535290_254095700958788_3272367844237847136_n](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/6efd2654-7d1d-4564-98bc-15d353169096)
 
 - Get the bot token and add it to the `config.py` file.
-![image](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/15739ff5-24ee-4a22-8ac4-494df7bf9f5d)
+![image](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/46d65d77-600c-4845-bbcc-ecffa9ad65de)
+
 
 
 
