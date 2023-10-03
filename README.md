@@ -23,7 +23,8 @@ git clone https://github.com/ChienNguyenIT/bot_telegram
  ![384535290_254095700958788_3272367844237847136_n](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/6efd2654-7d1d-4564-98bc-15d353169096)
 
 - Get the bot token and add it to the `config.py` file.
- ![384535269_228981720170144_1524988844995250100_n](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/03ba4c1d-58b7-4fe5-89af-01f41d9fa9fe)
+![image](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/15739ff5-24ee-4a22-8ac4-494df7bf9f5d)
+
 
 
 5. **Configure requests to get news from websites**
