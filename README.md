@@ -41,7 +41,8 @@ git clone https://github.com/ChienNguyenIT/bot_telegram
  ![384532658_640544614890264_6583204596589130348_n](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/2a108758-fada-4c2b-a054-553df55115ec)
 
 - chat : "/hello" bot will send greetings
-- ![384346800_1039003970454839_5207337591903418050_n](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/eed8f53d-69d4-41d3-bbff-338c2a0c092f)
+![image](https://github.com/ChienNguyenIT/bot_telegram/assets/127098641/338b967c-cb95-4cc3-a656-de642849802a)
+
 
 - chat: “/news1,/news2,/new3” bot will automatically update news from 3 sources
 
